@@ -43,6 +43,11 @@ def naming_system
   # HoH all the way to Species!
   new_hash = {
     :Kingdom => { :Phylum => { :Class } }
-   
-
+  
+    :Order 
+    
+    :Family => {:Genus}
+    
+    :Species => {}
+  }
 end
